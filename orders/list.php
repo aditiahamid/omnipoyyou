@@ -180,7 +180,7 @@ $stats_data = [
                     <tr>
                         <td colspan="8" style="text-align: center; padding: 50px;">
                             <i class="fas fa-box-open" style="font-size: 3rem; color: #e2e8f0; margin-bottom: 15px; display: block;"></i>
-                            <span style="color: #94a3b8;">No orders found matching your criteria.</span>
+                            <span style="color: #94a3b8;">No order found matching your criteria.</span>
                         </td>
                     </tr>
                     <?php else: ?>
